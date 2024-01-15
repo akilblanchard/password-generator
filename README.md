@@ -1,6 +1,8 @@
 # Password Generator
 ---
+
 This generator will provide a password that is 16 characters in length and ensures that the password is generated with a mix of numbers, special characters and lower and upper case letters.
+
 ---
 ## Motivation behind this project
 Prior to building this project I was asking myself how could I utilize Python at my current job.
